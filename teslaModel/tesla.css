@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap");
+
+* {
+  font-family: "Google Sans", sans-serif;
+}
+.hero_container {
+  background-image: url("./tesla.jpg");
+  background-size: cover;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  padding: 1px;
+  border: 0%;
+}
+
+h1 {
+  color: white;
+  font-weight: 700;
+  font-size: 55px;
+}
+p {
+  color: white;
+  font-weight: 500;
+  font-size: 27px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  border: none;
+}
+.links {
+  padding: 10px 50px 10px 50px;
+  margin: 1px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 12px;
+  background-color: #3e6ae1;
+}
+#hero_link1 {
+  background-color: #fff;
+  color: #000;
+}
